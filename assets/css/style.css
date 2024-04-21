@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'LowRider BB', sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
   color: #272829;
 }
 
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'LowRider BB', sans-serif;
+  font-family: 'Rubik Dirt', sans-serif;
   background: rgb(180,121,29);
   background: linear-gradient(0deg, rgba(180,121,29,1) 0%, rgba(0,0,0,1) 69%); 
   -webkit-background-clip: text;
@@ -269,7 +269,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/fatboi-alt.jpeg") center center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -303,6 +303,7 @@ h6 {
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
+  font-weight: 800;
 }
 
 #hero p span {
@@ -319,6 +320,7 @@ h6 {
   display: inline-block;
   color: #45505b;
   line-height: 1;
+  margin-left: 20px;
   margin-right: 20px;
   transition: 0.3s;
 }
